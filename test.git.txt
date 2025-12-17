@@ -1,3 +1,6 @@
 learing git
 this is another bug fix 
 this is second bug fix
+
+this is third bug fix 
+learning git from chai aur code
