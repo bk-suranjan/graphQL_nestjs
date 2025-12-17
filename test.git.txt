@@ -1,1 +1,3 @@
 learing git
+this is another bug fix 
+this is second bug fix
